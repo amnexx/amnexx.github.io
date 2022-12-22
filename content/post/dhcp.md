@@ -2,7 +2,7 @@
 title: "DHCP"
 author: "Amnex"
 date: 2022-12-22T22:40:38Z
-draft: true
+draft: false
 ---
 # What is DHCP?
 A network device needs to have 4 things to communicate with other devices:
